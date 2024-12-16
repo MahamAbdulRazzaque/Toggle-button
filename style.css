@@ -1,0 +1,19 @@
+.head{
+    margin-top: 300px;
+    margin-left: 700px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btn{   
+    margin-left: 800px;
+    padding: 30px;
+    border-radius: 70px;
+    background-color: rgb(87, 87, 87);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: rgb(209, 182, 255);
+}
